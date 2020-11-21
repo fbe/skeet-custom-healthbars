@@ -6,6 +6,7 @@ local images = require ("gamesense/images") -- https://gamesense.pub/forums/view
 local surface = require ("gamesense/surface") -- https://gamesense.pub/forums/viewtopic.php?id=18793
 local csgo_weapons = require ("gamesense/csgo_weapons") -- https://gamesense.pub/forums/viewtopic.php?id=18807
 local http = require ("gamesense/http") -- https://gamesense.pub/forums/viewtopic.php?id=19253
+-- FONT USED: https://anonfiles.com/l6Q6Xerdpd/pirulen_rg_ttf
 
 ----------------------------------------------------------
 --               MAKE SURE YOU HAVE THESE               --
